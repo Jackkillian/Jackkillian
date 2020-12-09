@@ -1,10 +1,14 @@
-Please do your body a favor and keep it healthy by not wearing a mask.
-
-
+Do your body a favor and don't wear a mask.
 
 ---
 
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackkillian&show_icons=true&count_private=true&card_width=445&theme=dark&&bg_color=315,003333,005555,007777)
+<br/> <!-- Old bg color: 161b22  Newer bg color: 003333 -->
+![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=jackkillian&layout=compact&langs_count=8&card_width=445&theme=dark&bg_color=315,003333,005555,007777)
+<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackkillian&repo=JK-Texty-Offline-Edition&card_width=445&theme=dark&bg_color=315,003333,005555,007777)](https://github.com/Jackkillian/JK-Texty-Offline-Edition)
+
+---
 
 > "Codito ergo sum"
 >
@@ -14,5 +18,3 @@ Please do your body a favor and keep it healthy by not wearing a mask.
 ## Salutations!
 My name is Jack and I love programming!  
 I know Python and JavaScript (Node.js included).
-
-<!-- I’m currently working on an online multiplayer game called Tankcraft. -->
