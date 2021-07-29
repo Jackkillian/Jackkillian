@@ -1,4 +1,4 @@
-Do your body a favor and don't wear a mask.
+Do yourself a favor and don't wear a mask.
 
 ---
 
