@@ -16,5 +16,4 @@ Do yourself a favor and don't wear a mask.
   
 
 ## Salutations!
-My name is Jack and I love programming!  
-I know Python and JavaScript (Node.js included).
+I'm Jackkillian, and I love to program and draw. I know a few languages, including Python, Typescript, and Java.
