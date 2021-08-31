@@ -6,7 +6,6 @@ Do yourself a favor and don't wear a mask.
 <br/> <!-- Old bg color: 161b22  Newer bg color: 003333 -->
 ![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=jackkillian&layout=compact&langs_count=8&count_private=true&card_width=445&theme=dark&bg_color=315,003333,005555,007777)
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackkillian&repo=JK-Texty-Offline-Edition&card_width=445&theme=dark&bg_color=315,003333,005555,007777)](https://github.com/Jackkillian/JK-Texty-Offline-Edition)
 
 ---
 
@@ -16,4 +15,4 @@ Do yourself a favor and don't wear a mask.
   
 
 ## Salutations!
-I'm Jackkillian, and I love to program and draw. I know a few languages, including Python, Typescript, and Java.
+I'm Jackkillian, and I love to program and draw. I know a few languages, including Python, Typescript, and Java (and a tad bit of C++).
