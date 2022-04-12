@@ -7,12 +7,7 @@ Do yourself a favor and don't wear a mask.
 ![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=jackkillian&layout=compact&langs_count=8&count_private=true&card_width=445&theme=dark&bg_color=315,22272e,22272e,22272e)
 <br/>
 
----
-
-> "Codito ergo sum"
->
-\- Jack Freund
-  
+---  
 
 ## Salutations!
 I'm Jackkillian, and I love to program and draw. I know a few languages, including Python, Typescript, and Java (and a tad bit of C++).
