@@ -1,5 +1,5 @@
 <h1 align="center">Salutations, I'm Jackkillian.</h1>
-<h3 align="center"><i>An aspiring young developer.</i></h3>
+<h3 align="center">An aspiring young developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackkillian&label=Profile%20views&color=blue&style=flat" alt="jackkillian" /> <img src="https://gitwar.herokuapp.com/badge?username=jackkillian" /> </p> 
 
