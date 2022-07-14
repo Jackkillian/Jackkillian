@@ -18,8 +18,8 @@
 </p>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackkillian&show_icons=true&theme=onedark&locale=en&layout=compact&count_private=true&langs_count=10&hide=tcl,css,html,plsql" alt="jackkillian" /> <!-- only show real programming languages -->
+<img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="jackkillian" /> <!-- only show real programming languages -->
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jackkillian&show_icons=true&theme=onedark&locale=en&count_private=true" alt="jackkillian" />
+<img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="jackkillian" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackkillian&theme=onedark" alt="jackkillian" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackkillian&theme=github-dark-blue" alt="jackkillian" />
