@@ -10,10 +10,9 @@
 <ul>
 <li>JS</li>
 <li>TS</li>
-<li>C++</li>
-<li>C#</li>
 <li>Java</li>
 <li>Python</li>
+<li>(learning) C++</li>
 </ul>
 </p>
 
