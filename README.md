@@ -13,6 +13,7 @@
 <li>Java</li>
 <li>Python</li>
 <li>(learning) C++</li>
+<li>(learning) C#</li>
 </ul>
 </p>
 
