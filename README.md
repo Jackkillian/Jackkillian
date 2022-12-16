@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackkillian&label=Profile%20views&color=blue&style=flat" alt="jackkillian" /> <img src="https://gitwar.herokuapp.com/badge?username=jackkillian" /> </p> 
 
-- 🔭 I’m currently working on [**a MMORPG made with Java and libGDX**](https://www.jdeploy.com/~worldofdragons)
+- 🔭 I’m currently learning Godot!
 
 <h3 align="left">Languages learned:</h3>
 <p align="left"> 
