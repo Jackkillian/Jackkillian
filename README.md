@@ -1,8 +1,6 @@
 <h1 align="center">Salutations, I'm Jackkillian.</h1>
 <h3 align="center">An aspiring young developer.</h3>
 
-- Currently developing a chess analysis app ♟
-
 <h3 align="left">Languages I Use:</h3>
 <p align="left"> 
 <ul>
@@ -11,7 +9,6 @@
 <li>Java</li>
 <li>Python</li>
 <li>C#</li>
-<li>(learning) C++</li>
 </ul>
 </p>
 
