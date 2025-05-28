@@ -20,4 +20,4 @@
 <br/>
 <img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="jackkillian" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackkillian&theme=github-dark-blue" alt="jackkillian" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jackkillian&theme=github-dark-blue" alt="GitHub Streak" /></a>
