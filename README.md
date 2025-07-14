@@ -1,19 +1,15 @@
 <h1 align="center">Salutations, I'm Jackkillian.</h1>
-<h3 align="center">An aspiring young developer.</h3>
+<h3 align="center">an aspiring young developer</h3>
 
-<h3 align="left">Languages I Use:</h3>
-<p align="left"> 
 <ul>
-<li>JS</li>
-<li>TS</li>
-<li>Java</li>
-<li>Python</li>
-<li>C#</li>
+  <li>use a lot of python, js, and java</li>
+  <li>currently interning at advanced clustering technologies, inc</li>
 </ul>
-</p>
+
+<p>check out <a href="https://jackkillian.com">my website</a> :)</p>
 
 <br/>
-<img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="jackkillian" /> <!-- only show real programming languages -->
+<img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="jackkillian" />
 <br/>
 <img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="jackkillian" />
 <br/>
