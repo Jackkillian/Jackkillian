@@ -4,9 +4,8 @@
 <ul>
   <li>use a lot of python, js, and java</li>
   <li>currently interning at advanced clustering technologies, inc</li>
+  <li>currently attending missouri s&t for a computer science degree</li>
 </ul>
-
-<p>check out <a href="https://jackkillian.com">my website</a> :)</p>
 
 <br/>
 <img src="https://raw.githubusercontent.com/Jackkillian/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="jackkillian" />
